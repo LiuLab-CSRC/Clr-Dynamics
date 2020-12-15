@@ -10,4 +10,4 @@ In this page, there are five groups of files, following the data processing step
 2. __Extrapolated maps (ExtraMap<sub>obs</sub>) calculated from experimental data__: (F<sub>dark</sub>+N<sub>ext</sub> * |F<sub>pump</sub>-F<sub>dark</sub>|<sub>obs</sub>) * exp(i phi<sub>dark</usb>)
 3. __Refined atomic models__ : dark, 1-100 ps
 4. __MTZ with structure factors__ : dark, 1-100 ps
-5. __Fourier difference maps (DMAP<sub>calc</sub>) calculated from refined atomic models
+5. __Fourier difference maps (DMAP<sub>calc</sub>) calculated from refined atomic models__
