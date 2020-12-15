@@ -1,4 +1,4 @@
-# Clr
+# Clr data from time-resolved serial-femtosecond-crystallography
 
 This page provides supporting data for the study on the ClR, a chloride ion pumping rhodospin. The ClR has a chromophore, retinal linked to a lysine on transmembrane helix-G (the 7th helix from the N-terminal of ClR). Retinal isoermiazation triggered by light absorption will drive the Chloride ion through the channel of ClR. 
 
